@@ -1,0 +1,7 @@
+data/*
+
+!data/.gitkeep
+!data/README.md
+
+.DS_Store
+.venv

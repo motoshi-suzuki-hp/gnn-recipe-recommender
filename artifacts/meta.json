@@ -1,0 +1,15 @@
+{
+  "num_users": 20706,
+  "num_recipes": 47698,
+  "num_ings": 8523,
+  "stats": {
+    "interactions_pos": 546216,
+    "ur_train": 429122,
+    "ur_dev": 52880,
+    "ur_test": 64214,
+    "thresholds": {
+      "user_min_inter": 5,
+      "recipe_min_inter": 5
+    }
+  }
+}
